@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FazalSultan from Swat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...(still student..)
-- 💞️ I’m doing BS cs from FAST_NU Pdshawar
+- 💞️ I’m doing BS cs from FAST_NU Peshawar
 - 📫 I'm wanna Become a strong programmer
 -      (Search_for_Beauty)
